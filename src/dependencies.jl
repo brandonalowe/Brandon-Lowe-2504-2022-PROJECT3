@@ -1,4 +1,4 @@
-using DataFrames, CSV, Plots, StatsPlots, StatsBase, HTTP, SplitApplyCombine
+using DataFrames, CSV, Plots, StatsPlots, StatsBase, HTTP, SplitApplyCombine, GLM, Random
 
 include("helper-functions.jl") # some helper functions I wrote to help keep notebook clean
 
